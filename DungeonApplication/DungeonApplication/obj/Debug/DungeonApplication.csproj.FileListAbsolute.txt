@@ -1,0 +1,10 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\bin\Debug\DungeonApplication.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\bin\Debug\DungeonApplication.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\bin\Debug\DungeonApplication.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\obj\Debug\DungeonApplication.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\obj\Debug\DungeonApplication.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\obj\Debug\DungeonApplication.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\bin\Debug\DungeonLibrary.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\bin\Debug\DungeonLibrary.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\bin\Debug\MonsterLibrary.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DungeonApplication\DungeonApplication\bin\Debug\MonsterLibrary.pdb

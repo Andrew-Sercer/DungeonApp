@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonApplication", "DungeonApplication\DungeonApplication.csproj", "{09B28089-D5C8-4F58-9BA3-5F74581426EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonLibrary", "DungeonLibrary\DungeonLibrary.csproj", "{5DF3B758-79DF-4104-ACBC-8D5833805EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterLibrary", "MonsterLibrary\MonsterLibrary.csproj", "{E13C527D-E29B-481A-9C40-B05A06474563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B28089-D5C8-4F58-9BA3-5F74581426EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B28089-D5C8-4F58-9BA3-5F74581426EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B28089-D5C8-4F58-9BA3-5F74581426EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B28089-D5C8-4F58-9BA3-5F74581426EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF3B758-79DF-4104-ACBC-8D5833805EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF3B758-79DF-4104-ACBC-8D5833805EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF3B758-79DF-4104-ACBC-8D5833805EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF3B758-79DF-4104-ACBC-8D5833805EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E13C527D-E29B-481A-9C40-B05A06474563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13C527D-E29B-481A-9C40-B05A06474563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13C527D-E29B-481A-9C40-B05A06474563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13C527D-E29B-481A-9C40-B05A06474563}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
